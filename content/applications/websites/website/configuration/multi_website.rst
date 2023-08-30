@@ -79,8 +79,18 @@ website.
 
 .. _multi-website/website_content:
 
+<<<<<<< HEAD
 Content availability
 --------------------
+||||||| parent of f56951098 (temp)
+Pricelists
+----------
+=======
+.. _multi_website/pricelists:
+
+Pricelists
+----------
+>>>>>>> f56951098 (temp)
 
 By default, pages, products, events, etc. created from the frontend (using the
 :guilabel:`+New` button) are only available on the website from which it was created. Records
